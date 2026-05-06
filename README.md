@@ -21,13 +21,13 @@ An e-commerce business with 6 years of transaction history had **no structured v
  
 aimed to grow revenue and improve customer loyalty, eight critical questions emerged:
  
- **1. Who are the most valuable customers, and how can the business identify and retain them?
+ 1. Who are the most valuable customers, and how can the business identify and retain them?
  2. Who are the potential loyalists — and what does it take to convert them?
  3. Which customers are at risk of churning, and what strategies can bring them back?
  4. How do **gender and age** influence shopping behavior and engagement?
  5. How does **newsletter subscription** influence purchase frequency and spend?
  6. Is there a relationship between **acquisition channel** and customer quality?
- 8. How can the business transform one-time buyers into loyal, repeat customers?**
+ 8. How can the business transform one-time buyers into loyal, repeat customers?
  
 Without answers, marketing decisions were based on intuition rather than evidence — and the window to recover at-risk customers was quietly closing.
 
