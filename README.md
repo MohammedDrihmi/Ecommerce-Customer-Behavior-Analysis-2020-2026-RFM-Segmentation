@@ -1,35 +1,3 @@
-# Ecommerce Customer Behavior Analysis (2020–2026): RFM Segmentation for Retention, Loyalty & Revenue Growth
-Who are your best customers — and who's about to leave? 
-
-Excel-based RFM analysis segmenting 8,000 global e-commerce customers into 11 behavioral groups, with insights across demographics, acquisition channels, and 20 countries to drive retention and revenue growth.
-
-## 📌 Project Overview
- 
-This project applies **RFM (Recency, Frequency, Monetary)** analysis to a global e-commerce dataset spanning 6 years (2020–2026), built entirely in **Microsoft Excel** using pivot tables, calculated fields, and a custom scoring model.
- 
-The goal was to move beyond surface-level sales metrics and build a structured understanding of **who the customers are, how they behave, and what the business should do about it** — segment by segment.
- 
-The analysis covers:
- 
-- **11 customer segments** ranked from Champions to Lost
-- **6 analytical dimensions** — RFM scoring, demographics, acquisition channels, newsletter behavior, geography, and revenue contribution
-- **Actionable business recommendations**  based on real data patterns
-
-## ❗ Problem Statement
- 
-An e-commerce business with 6 years of transaction history had **no structured view of its customer base**. Without a segmentation model, every customer was treated the same — resulting in generic marketing campaigns, missed retention opportunities, and budget wasted on low-value segments.
- 
-aimed to grow revenue and improve customer loyalty, eight critical questions emerged:
- 
- 1. Who are the most valuable customers, and how can the business identify and retain them?
- 2. Who are the potential loyalists — and what does it take to convert them?
- 3. Which customers are at risk of churning, and what strategies can bring them back?
- 4. How do **gender and age** influence shopping behavior and engagement?
- 5. How does **newsletter subscription** influence purchase frequency and spend?
- 6. Is there a relationship between **acquisition channel** and customer quality?
- 8. How can the business transform one-time buyers into loyal, repeat customers?
-
-
 # 📊 E-Commerce RFM Customer Segmentation Analysis
 
 > A full-stack customer intelligence project built entirely in Microsoft Excel — turning 6 years of raw transaction data into 11 actionable customer segments, 6 analytical dimensions, and a clear revenue strategy.
@@ -54,7 +22,7 @@ aimed to grow revenue and improve customer loyalty, eight critical questions eme
 
 ## Project Overview
 
-This project applies **RFM (Recency, Frequency, Monetary)** analysis to a global e-commerce dataset spanning **6 years (2020–2026)**. The entire analysis was built natively in **Microsoft Excel** using pivot tables, calculated fields, and a custom scoring model.
+This project applies **RFM (Recency, Frequency, Monetary)** analysis to a global e-commerce dataset spanning **6 years (2020–2026)**. The entire analysis was built natively in **Microsoft Excel** using Excel Formulas & Functions ,pivot tables,and pivot charts.
 
 The goal was to move beyond surface-level sales metrics and build a structured understanding of **who the customers are**, **how they behave**, and **what the business should do** — segment by segment.
 
@@ -64,7 +32,6 @@ The goal was to move beyond surface-level sales metrics and build a structured u
 | Time period | 2020 – 2026 |
 | Total revenue | $1.14 Billion |
 | Customer segments | 11 |
-| Analytical dimensions | 6 (RFM, Demographics, Channels, Newsletter, Geography, Revenue) |
 | Countries | 20 |
 | Acquisition channels | 6 |
 
@@ -211,8 +178,6 @@ The **25–44 age band represents 59.6% of customers** and drives the majority o
 | **Microsoft Excel** | Full analysis environment |
 | **Power Query** | Data cleaning & transformation |
 | **Pivot Tables** | Multi-dimensional segment analysis |
-| **Calculated Fields** | RFM scoring & custom metrics |
-| **Conditional Formatting** | Visual data exploration |
 | **RFM Modeling** | Customer segmentation framework |
 | **Business Intelligence** | Insight generation & recommendation design |
 | **Data Storytelling** | Executive presentation & narrative |
@@ -224,6 +189,7 @@ The **25–44 age band represents 59.6% of customers** and drives the majority o
 ```
 📁 ecommerce-rfm-analysis/
 │
+├── 📑 Licence                            # MIT Licence
 ├── 📊 Ecommerce_RFM_Analysis.xlsx        # Main Excel workbook
 │   ├── Sheet: Customer Data              # Raw & cleaned dataset
 │   ├── Sheet: RFM Score                  # Scoring model & segment mapping
@@ -234,7 +200,6 @@ The **25–44 age band represents 59.6% of customers** and drives the majority o
 │   └── Sheet: Gender                     # Gender behavior analysis
 │
 ├── 📑 RFM_Customer_Segmentation_Analysis.pptx   # English presentation
-├── 📑 RFM_Segmentation_Client_FR.pptx           # French presentation
 └── 📄 README.md                                  # This file
 ```
 
@@ -253,7 +218,7 @@ The **25–44 age band represents 59.6% of customers** and drives the majority o
 
 ---
 
-## Author
+## About Me :
 
 **Mohammed Drihmi** — Data Analyst
 
@@ -262,10 +227,3 @@ Passionate about turning raw data into business decisions. This project demonstr
 ---
 
 *Built entirely in Microsoft Excel · 2020–2026 E-Commerce Dataset · 8,000 Customers · 11 Segments*
-
- 
-Without answers, marketing decisions were based on intuition rather than evidence — and the window to recover at-risk customers was quietly closing.
-
-
-
-  
