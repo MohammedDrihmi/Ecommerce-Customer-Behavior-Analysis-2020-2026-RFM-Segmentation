@@ -187,9 +187,8 @@ The **25–44 age band represents 59.6% of customers** and drives the majority o
 ## File Structure
 
 ```
-📁 ecommerce-rfm-analysis/
+📁 ecommerce-customer-behavior-analysis-2020-2026-RFM segmentation/
 │
-├── 📑 Licence                            # MIT Licence
 ├── 📊 Ecommerce_RFM_Analysis.xlsx        # Main Excel workbook
 │   ├── Sheet: Customer Data              # Raw & cleaned dataset
 │   ├── Sheet: RFM Score                  # Scoring model & segment mapping
@@ -199,8 +198,9 @@ The **25–44 age band represents 59.6% of customers** and drives the majority o
 │   ├── Sheet: Age                        # Age group deep-dive
 │   └── Sheet: Gender                     # Gender behavior analysis
 │
-├── 📑 RFM_Customer_Segmentation_Analysis.pptx   # English presentation
-└── 📄 README.md                                  # This file
+├── 📑 Licence                            # MIT Licence
+├── 📄 README.md                                  # This file
+└── 📑 RFM_Customer_Segmentation_Analysis.pptx   # presentation
 ```
 
 ---
